@@ -45,3 +45,24 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.metadata/*/*
+*.log
+.metadata/.mylyn/.tasks.xml.zip
+*.markers
+.metadata
+.recommenders/
+.metadata/.*
+*.prefs
+ClassDefinition/.project
+*.classpath
+.metadata/version.ini
+*.xml
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+*.zip
+.metadata/.mylyn/tasks.xml.zip
+*.dat
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+*.prefs
+.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen
+*.json
+.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
