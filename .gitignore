@@ -66,3 +66,6 @@ ClassDefinition/.project
 .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen
 *.json
 .metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+*.log
+.metadata/.log
+*.ini
